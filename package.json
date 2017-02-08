@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/hohadiwinata/workflows.git"
   },
   "author": "Ho Hadi Winata",
   "license": "BSD-2-Clause",
@@ -16,6 +16,9 @@
     "gulp": "~3.9.1",
     "gulp-util": "~3.0.8",
     "gulp-coffee": "~2.3.3",
-    "gulp-concat": "~2.6.1"
+    "gulp-concat": "~2.6.1",
+    "gulp-browserify": "~0.5.1",
+    "mustache": "~2.3.0",
+    "jquery": "~3.1.1"
   }
 }
